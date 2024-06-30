@@ -1,6 +1,3 @@
-Updates to keyboard shortcuts … 
-On Thursday, August 1, 2024, Drive keyboard shortcuts will be updated to give you first-letters navigation.Learn more
-
 #include <SoftwareSerial.h>
 SoftwareSerial SIM900(2,3);
 
@@ -45,5 +42,5 @@ void loop(){
   SIM900.println("ATH"); //hang up
   Serial.println("ATH [Hang up]"); //hang up
 
-  do {} while (1);
+  do {} while (1); // so the loops stops and the device must be restarted with new parameters in order to make a new phone call
 }
