@@ -1,6 +1,6 @@
 # Ardiuino-Phone-using-SIM9000
 
-This rep is for the purpose of showcasing the the ability of the arduino's ability to make cellular phone calls using local cellular networks without need to access the internet using the SIM9000 module provided.
+This rep is for the purpose of showcasing the the ability of the arduino's to make cellular phone calls using local cellular networks without need to access the internet using the SIM9000 module provided.
 
 Schematic for the design:
 
